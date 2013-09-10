@@ -1,5 +1,4 @@
-IntelliJ IDEA on the Mac
-------------------------
+##### IntelliJ IDEA on the Mac
 
 | Shortcut   | Action      |
 |:-----------|:------------|
@@ -10,21 +9,25 @@ IntelliJ IDEA on the Mac
 | Cmd+4		   | Switch to unit test output
 | Esc			   | Go back to editor
 | Commit		 | Cmd+K • Ctl+Return
+| ⌘+Shift+V | Paste with History
+| ⌘+/      | Comment line/block
 
-Braces and Brackets (German Keyboard Layout)
---------------------------------------------
+##### German Keyboard Layout
 
 | Shortcut   | Action      |
 |:-----------|:------------|
+| ⌘+-      | Comment line/block
 | Alt+8      | {
 | Alt+9      | }
 | Alt+5      | [
 | Alt+6      | ]
 
-Various
-=======
+##### Various
 
 | Shortcut   | Action      |
 |:-----------|:------------|
-| Ctrl+Alt+Cmd+Space |	Switch keyboard layout
+| Ctrl+Alt+⌘+Space |	Switch keyboard layout
+| ⌘+C | Copy
+| ⌘+V | Paste
+| ⌘+X | Cut
 
