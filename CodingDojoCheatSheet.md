@@ -1,5 +1,5 @@
 IntelliJ IDEA on the Mac
-========================
+------------------------
 
 | Shortcut   | Action      |
 |:-----------|:------------|
@@ -11,8 +11,8 @@ IntelliJ IDEA on the Mac
 | Esc			   | Go back to editor
 | Commit		 | Cmd+K • Ctl+Return
 
-Braces and Brackets on the Mac German Keyboard Layout
-=====================================================
+Braces and Brackets (German Keyboard Layout)
+--------------------------------------------
 
 | Shortcut   | Action      |
 |:-----------|:------------|
